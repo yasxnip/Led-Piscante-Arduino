@@ -26,4 +26,6 @@ O objetivo deste projeto é introduzir conceitos iniciais de eletrônica e progr
 
 O Arduino envia sinal elétrico para o LED, alternando entre ligado e desligado a cada 1 segundo, criando um efeito de piscar contínuo.
 
+## 🔌 Circuito
+
 ![Circuito](Imagens/Circuito.png)
