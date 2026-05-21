@@ -1,6 +1,6 @@
 # 🔴 LED Piscante com Arduino
 
-Projeto básico utilizando Arduino para controlar um LED piscante.
+Projeto básico utilizando Arduino para controlar um LED piscante em linguagem C++.
 
 ## 🧠 Descrição
 
