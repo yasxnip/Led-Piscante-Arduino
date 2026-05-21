@@ -20,7 +20,13 @@ O objetivo deste projeto é introduzir conceitos iniciais de eletrônica e progr
 - LED
 - Resistor (220Ω)
 - Jumpers
-- Protoboard 
+- Protoboard
+
+## 🔧 Montagem do circuito 
+
+1. Conecte o LED no pino 13 (ânodo/+)
+2. Coloque o resistor de 220Ω em série com o LED
+3. Conecte o cátodo (-) ao GND  
 
 ## ⚙️ Funcionamento
 
